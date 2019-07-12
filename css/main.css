@@ -1,0 +1,10 @@
+*{margin:0; padding:0; outline: 0;}
+body{font-size: 18px; color:#444; line-height: 25px; margin: 5px;}
+.content{background:#ffc1077d; width: 800px; margin:0 auto;}
+.header, .footer{text-align: center; background:#ffff6f; padding: 10px; font-family: 'Righteous', cursive;}
+.maincontent{background:#fff; margin: 10px; min-height: 500px;}
+.maincontent_title{text-align: center; background:#e29e007d; padding: 10px;}
+.maincontent_title a{background:#b3995d; color: #FFF; text-decoration: none; padding: 8px 10px; font-family: 'Yellowtail', cursive;}
+.All-tutorial-links{width:780px;}
+.tutorial{overflow: hidden; float: left; background:#dcdcdc; margin: 5px; width: 240px; padding: 5px;}
+.tutorial a{text-decoration: none; color: #3f540e; font-weight: 600; font-family: 'Rajdhani', sans-serif;}
