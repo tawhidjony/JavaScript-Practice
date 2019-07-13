@@ -9,3 +9,4 @@ body{font-size: 18px; color:#444; line-height: 25px; margin: 5px;}
 .All-tutorial-links{width:780px;}
 .tutorial{overflow: hidden; float: left; background:#dcdcdc; margin: 5px; width: 240px; padding: 5px;}
 .tutorial a{text-decoration: none; color: #3f540e; font-family: 'Ubuntu'; font-size: 18px;}
+.content-area{padding: 20px;}
